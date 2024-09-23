@@ -1,0 +1,57 @@
+﻿\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+
+\title{SEC EXAM PIYASA BAIRAGI}
+\author{PIYASA BAIRAGI}
+\date{September 2024}
+\documentclass{article}
+\usepackage{multirow}
+\documentclass{article}
+\begin{document}
+
+
+\begin{center}
+    \textbf{Name:} Piyasa Bairagi \\
+    \textbf{Course:} B.Sc. Forensic Science \\
+    \textbf{Roll No:} 30059223015 \\
+    \textbf{Registration No:} 233002410019
+\end{center}
+
+
+
+
+
+
+\begin{document}
+
+
+\begin{table}[h!]
+\centering
+\caption{Student Marks Table}
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline
+\multirow{2}{}{S.No} & \multirow{2}{}{USN} & \multirow{2}{*}{Student Name} & \multicolumn{3}{c|}{Marks} \\ \cline{4-6}
+                      &                      &                              & Subject1 & Subject2 & Subject3 \\ \hline
+1                     & 4XX22XX001           & Name1                        & 89       & 60       & 90       \\ \hline
+2                     & 4XX22XX002           & Name2                        & 78       & 45       & 98       \\ \hline
+3                     & 4XX22XX003           & Name3                        & 67       & 55       & 59       \\ \hline
+\end{tabular}
+\end{table}
+
+
+\end{document}
+
+
+
+
+\begin{document}
+
+
+\maketitle
+
+
+\section{Introduction}
+
+
+\end{document}
